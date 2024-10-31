@@ -1,0 +1,5 @@
+﻿  PathSearch.cpp
+C:\Users\sephe\Desktop\FS Classes\Programing\AI\B - Path Planner\Project\PathSearch\PathSearch.cpp(152,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sephe\Desktop\FS Classes\Programing\AI\B - Path Planner\Project\PathSearch\PathSearch.cpp(245,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sephe\Desktop\FS Classes\Programing\AI\B - Path Planner\Project\PathSearch\PathSearch.cpp(246,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PathSearch.vcxproj -> C:\Users\sephe\Desktop\FS Classes\Programing\AI\B - Path Planner\Project\Debug\PathSearch.dll

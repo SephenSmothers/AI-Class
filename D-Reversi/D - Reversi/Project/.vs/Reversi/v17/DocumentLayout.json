@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8C00F3-F4DA-470F-AC51-38246CC416A6}|StudentAI\\StudentAI.csproj|c:\\users\\sephe\\desktop\\fs classes\\programing\\ai\\d-reversi\\d - reversi\\project\\studentai\\studentai_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8C00F3-F4DA-470F-AC51-38246CC416A6}|StudentAI\\StudentAI.csproj|solutionrelative:studentai\\studentai_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\coreai\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|solutionrelative:coreai\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\coreai\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|solutionrelative:coreai\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\coreai\\treevislib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|solutionrelative:coreai\\treevislib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\coreai\\computermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DD3AC-3D24-4A1F-B4F9-2E804656F9B5}|CoreAI\\CoreAI.csproj|solutionrelative:coreai\\computermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F89DA23-39C3-4D6D-8847-7CD9A9F2A1A7}|Reversi.csproj|c:\\users\\sephe\\desktop\\fs classes\\programing\\ai\\d-reversi\\d - reversi\\project\\applicationpresentation\\reversi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F89DA23-39C3-4D6D-8847-7CD9A9F2A1A7}|Reversi.csproj|solutionrelative:applicationpresentation\\reversi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reversi.cs",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\ApplicationPresentation\\Reversi.cs",
+              "RelativeDocumentMoniker": "ApplicationPresentation\\Reversi.cs",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\ApplicationPresentation\\Reversi.cs",
+              "RelativeToolTip": "ApplicationPresentation\\Reversi.cs",
+              "ViewState": "AQIAAP4DAAAAAAAAAAAnwHIEAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:41:42.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\Board.cs",
+              "RelativeDocumentMoniker": "CoreAI\\Board.cs",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\Board.cs",
+              "RelativeToolTip": "CoreAI\\Board.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAwwPAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:21:29.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerMove.cs",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\ComputerMove.cs",
+              "RelativeDocumentMoniker": "CoreAI\\ComputerMove.cs",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\ComputerMove.cs",
+              "RelativeToolTip": "CoreAI\\ComputerMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:56:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\Node.cs",
+              "RelativeDocumentMoniker": "CoreAI\\Node.cs",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\Node.cs",
+              "RelativeToolTip": "CoreAI\\Node.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAOgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:52:56.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreeVisLib.cs",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\TreeVisLib.cs",
+              "RelativeDocumentMoniker": "CoreAI\\TreeVisLib.cs",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\CoreAI\\TreeVisLib.cs",
+              "RelativeToolTip": "CoreAI\\TreeVisLib.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwGgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:57:45.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAI_TODO.cs",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\StudentAI\\StudentAI_TODO.cs",
+              "RelativeDocumentMoniker": "StudentAI\\StudentAI_TODO.cs",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\D-Reversi\\D - Reversi\\Project\\StudentAI\\StudentAI_TODO.cs",
+              "RelativeToolTip": "StudentAI\\StudentAI_TODO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:26:10.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

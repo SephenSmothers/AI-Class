@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sephe\\AppData\\Local\\Temp\\e7b1521f-b6c3-4165-9340-82bb3afb94b3_smothers.sephen.FundamentalsLab.zip.4b3\\BehaviorTree\\Behavior_TODO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B4816-67A3-450E-983C-2AE960257182}|BehaviorTree\\BehaviorTree.vcxproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\BehaviorTree\\Behavior_TODO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C14B4816-67A3-450E-983C-2AE960257182}|BehaviorTree\\BehaviorTree.vcxproj|solutionrelative:BehaviorTree\\Behavior_TODO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sephe\\AppData\\Local\\Temp\\7b6b0e1a-6a1c-4a4f-89fb-9d5ba95fb494_smothers.sephen.FundamentalsLab.zip.494\\QueueList\\QueueList_TODO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sephe\\AppData\\Local\\Temp\\87cbd1cd-5529-4c6d-9816-8f637dc2ec33_smothers.sephen.FundamentalsLab.zip.c33\\BehaviorTree\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sephe\\AppData\\Local\\Temp\\4deeb942-8105-476e-a03f-0373fc259eb9_smothers.sephen.FundamentalsLab.zip.eb9\\QueueList\\QueueList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B4816-67A3-450E-983C-2AE960257182}|BehaviorTree\\BehaviorTree.vcxproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\BehaviorTree\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C14B4816-67A3-450E-983C-2AE960257182}|BehaviorTree\\BehaviorTree.vcxproj|solutionrelative:BehaviorTree\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueList_TODO.h",
+              "DocumentMoniker": "C:\\Users\\sephe\\AppData\\Local\\Temp\\7b6b0e1a-6a1c-4a4f-89fb-9d5ba95fb494_smothers.sephen.FundamentalsLab.zip.494\\QueueList\\QueueList_TODO.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\7b6b0e1a-6a1c-4a4f-89fb-9d5ba95fb494_smothers.sephen.FundamentalsLab.zip.494\\QueueList\\QueueList_TODO.h",
+              "ToolTip": "C:\\Users\\sephe\\AppData\\Local\\Temp\\7b6b0e1a-6a1c-4a4f-89fb-9d5ba95fb494_smothers.sephen.FundamentalsLab.zip.494\\QueueList\\QueueList_TODO.h [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\7b6b0e1a-6a1c-4a4f-89fb-9d5ba95fb494_smothers.sephen.FundamentalsLab.zip.494\\QueueList\\QueueList_TODO.h [Read Only]",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T23:05:59.236Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueList.h",
+              "DocumentMoniker": "C:\\Users\\sephe\\AppData\\Local\\Temp\\4deeb942-8105-476e-a03f-0373fc259eb9_smothers.sephen.FundamentalsLab.zip.eb9\\QueueList\\QueueList.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\4deeb942-8105-476e-a03f-0373fc259eb9_smothers.sephen.FundamentalsLab.zip.eb9\\QueueList\\QueueList.h",
+              "ToolTip": "C:\\Users\\sephe\\AppData\\Local\\Temp\\4deeb942-8105-476e-a03f-0373fc259eb9_smothers.sephen.FundamentalsLab.zip.eb9\\QueueList\\QueueList.h [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\4deeb942-8105-476e-a03f-0373fc259eb9_smothers.sephen.FundamentalsLab.zip.eb9\\QueueList\\QueueList.h [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T23:05:54.316Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Behavior.h",
+              "DocumentMoniker": "C:\\Users\\sephe\\AppData\\Local\\Temp\\87cbd1cd-5529-4c6d-9816-8f637dc2ec33_smothers.sephen.FundamentalsLab.zip.c33\\BehaviorTree\\Behavior.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\87cbd1cd-5529-4c6d-9816-8f637dc2ec33_smothers.sephen.FundamentalsLab.zip.c33\\BehaviorTree\\Behavior.h",
+              "ToolTip": "C:\\Users\\sephe\\AppData\\Local\\Temp\\87cbd1cd-5529-4c6d-9816-8f637dc2ec33_smothers.sephen.FundamentalsLab.zip.c33\\BehaviorTree\\Behavior.h [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\87cbd1cd-5529-4c6d-9816-8f637dc2ec33_smothers.sephen.FundamentalsLab.zip.c33\\BehaviorTree\\Behavior.h [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T23:03:10.493Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Behavior_TODO.cpp",
+              "DocumentMoniker": "C:\\Users\\sephe\\AppData\\Local\\Temp\\e7b1521f-b6c3-4165-9340-82bb3afb94b3_smothers.sephen.FundamentalsLab.zip.4b3\\BehaviorTree\\Behavior_TODO.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\e7b1521f-b6c3-4165-9340-82bb3afb94b3_smothers.sephen.FundamentalsLab.zip.4b3\\BehaviorTree\\Behavior_TODO.cpp",
+              "ToolTip": "C:\\Users\\sephe\\AppData\\Local\\Temp\\e7b1521f-b6c3-4165-9340-82bb3afb94b3_smothers.sephen.FundamentalsLab.zip.4b3\\BehaviorTree\\Behavior_TODO.cpp [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\e7b1521f-b6c3-4165-9340-82bb3afb94b3_smothers.sephen.FundamentalsLab.zip.4b3\\BehaviorTree\\Behavior_TODO.cpp [Read Only]",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAGwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T23:02:40.555Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Behavior_TODO.cpp",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\BehaviorTree\\Behavior_TODO.cpp",
+              "RelativeDocumentMoniker": "BehaviorTree\\Behavior_TODO.cpp",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\BehaviorTree\\Behavior_TODO.cpp",
+              "RelativeToolTip": "BehaviorTree\\Behavior_TODO.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T23:00:21.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Behavior.h",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\BehaviorTree\\Behavior.h",
+              "RelativeDocumentMoniker": "BehaviorTree\\Behavior.h",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\A-FundamentalsofAI\\A - Fundamentals of AI\\Project\\BehaviorTree\\Behavior.h",
+              "RelativeToolTip": "BehaviorTree\\Behavior.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T23:00:42.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

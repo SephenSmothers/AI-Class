@@ -1,0 +1,1 @@
+The heuristic weight is a float value defined in PathSearch.h on line 80 called hWeight. I am not sure if there is a way to make it pop up on the interface like how it is in the example so you can modify it there if needed. 

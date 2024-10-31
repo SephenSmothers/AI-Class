@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCFE9C7-BD17-420C-A209-49C96693F607}|PathSearch\\PathSearch.vcxproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\PathSearch\\PathSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CCFE9C7-BD17-420C-A209-49C96693F607}|PathSearch\\PathSearch.vcxproj|solutionrelative:PathSearch\\PathSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCFE9C7-BD17-420C-A209-49C96693F607}|PathSearch\\PathSearch.vcxproj|C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\PathSearch\\PathSearch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CCFE9C7-BD17-420C-A209-49C96693F607}|PathSearch\\PathSearch.vcxproj|solutionrelative:PathSearch\\PathSearch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 158,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathSearch.h",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\PathSearch\\PathSearch.h",
+              "RelativeDocumentMoniker": "PathSearch\\PathSearch.h",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\PathSearch\\PathSearch.h",
+              "RelativeToolTip": "PathSearch\\PathSearch.h",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAjwEMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T16:01:28.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PathSearch.cpp",
+              "DocumentMoniker": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\PathSearch\\PathSearch.cpp",
+              "RelativeDocumentMoniker": "PathSearch\\PathSearch.cpp",
+              "ToolTip": "C:\\Users\\sephe\\Desktop\\FS Classes\\Programing\\AI\\B - Path Planner\\Project\\PathSearch\\PathSearch.cpp",
+              "RelativeToolTip": "PathSearch\\PathSearch.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T16:01:26.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAEcHAAAAAAAAAAAWwFQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T02:03:54.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

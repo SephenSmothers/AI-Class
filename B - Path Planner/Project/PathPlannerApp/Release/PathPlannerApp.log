@@ -1,0 +1,6 @@
+﻿  PathPlannerLab.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PathPlannerApp.vcxproj -> C:\Users\sephe\Desktop\FS Classes\Programing\AI\B - Path Planner\Project\Release\PathPlannerApp.exe
